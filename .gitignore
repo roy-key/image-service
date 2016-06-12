@@ -39,6 +39,7 @@ Thumbs.db
 *.iws
 
 *.iml
+*.jpg
 
 /target
 .gitignore
